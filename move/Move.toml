@@ -1,0 +1,3 @@
+[package]
+name = "agent_commerce"
+edition = "2024"
